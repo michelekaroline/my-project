@@ -1,0 +1,42 @@
+body {
+  background-color: #d3f1fa54;
+  margin: 20px;
+}
+
+.container {
+  border: 1px solid #07b0f0;
+  max-width: 1200px;
+  margin: auto;
+  padding: 30px 60px;
+  border-radius: 15px;
+  background-color: #d3f1fa54;
+}
+
+h1 {
+  color: #07b0f0;
+}
+
+h3 {
+  color: #07b0f0;
+}
+
+.card-text-principal {
+  font-size: 100px;
+}
+
+.card-text-principal > a {
+  text-decoration: none;
+}
+
+.principal-cloud {
+  font-size: 100px;
+}
+
+.weather-icon {
+  font-size: 50px;
+  margin: 0 0 0px 60px;
+}
+
+.next-row .col-sm-2 {
+  margin-left: 1.8rem;
+}
